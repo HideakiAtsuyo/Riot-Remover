@@ -1,4 +1,4 @@
-﻿using Leaf.xNet;
+using Leaf.xNet;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -101,7 +101,6 @@ namespace RiotRemover
                 }
                 catch
                 {
-
                 }
             }
         }
